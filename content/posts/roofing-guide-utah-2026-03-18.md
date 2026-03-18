@@ -3,7 +3,7 @@ title: "What Utah Homeowners Should Know About Their Roof"
 date: "2026-03-18"
 category: "Roofing"
 description: "A practical guide for Utah homeowners on roof lifespan, when to repair vs replace, what to ask contractors, and the most common mistake that turns a small leak into a major expense."
-featured: false
+featured: true
 ---
 
 # What Utah Homeowners Should Know About Their Roof
